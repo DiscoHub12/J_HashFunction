@@ -8,8 +8,8 @@ has its strengths or weaknesses.
 In this project, we find two folders, which can be safely imported. Each directory has its own specific 
 implementation of the algorithm and an example (in the java main file):
 
-- folder contains the java files i.e. the implementation of the SHA1 and MD5 algorithm
-- folder contains the java files i.e. the implementation of the PBKDF2 algorithm.
+- folder contains the java files i.e. the implementation of the [SHA1](https://it.wikipedia.org/wiki/Secure_Hash_Algorithm) and [MD5](https://it.wikipedia.org/wiki/MD5) algorithm
+- folder contains the java files i.e. the implementation of the [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) algorithm.
 
 ## MD5
 MD5 is a cryptographic hash function created by [Ronald Rivest](https://en.wikipedia.org/wiki/Ron_Rivest) in 1991 and standardized with RFC 1321
